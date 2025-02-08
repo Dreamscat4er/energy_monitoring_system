@@ -3,12 +3,12 @@ Relay switches off the device based on programmable treashold. Temperature and h
 FreeRTOS is used to manage tasks workflow. 
 
 Components:
-#ESP32 MCU
-#DHT22 Temperature sensor
-#20A/1V AC Current sensor
-#AC Voltage sensor
-#Relay Module
-#SSD1306 oled display
+* ESP32 MCU
+* DHT22 Temperature sensor
+* 20A/1V AC Current sensor
+* AC Voltage sensor
+* Relay Module
+* SSD1306 oled display
 
 ![5855007024474080244](https://github.com/user-attachments/assets/e6d0eeab-d1ef-4f68-8a29-e7e6c24856bc)
 
